@@ -1,4 +1,4 @@
-# PADCHEST Dataset 
+# PADCHEST Datasets 
 
 The PADCHEST dataset is a chest x-ray labeled dataset containing 160K high resolution images with their corresponding labeled reports. Its detailed description and labeling methods are described in [1].  
 Researchers interested in accesing the full Clinical Database must formally request access in http://bimcv.cipf.es/bimcv-projects/padchest/ . By requesting access the user agrees that (1) he/she will not share the data, (2) he/she will make no attempt to reidentify individuals. The PadChest, although de-identified, still contains information regarding the clinical care of patients, and must be treated with appropriate respect. For attribution, please cite as [1]. 
